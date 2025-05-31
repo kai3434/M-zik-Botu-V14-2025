@@ -4,3 +4,4 @@ Ayrıca bu komutları da terminalde çalıştırman gerekiyor:
 bash
 npm install discord.js @discordjs/voice ytdl-core yt-search
 Ve index.js içindeki şu satıra kendi bot token'ını yazmalısın:
+const token = 'BOT_TOKENINI_BURAYA_YAZ';
